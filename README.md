@@ -6,7 +6,7 @@
   <img src="Docs/PCI.png" align=center">
  </p>
  <p align="center">
-  <img src="Docs/USB.jpg" align=center">
+  <img src="Docs/USB.png" align=center">
  </p>
  <p align="center">
   <img src="Docs/Peripherals.png" align=center">
@@ -41,4 +41,3 @@
 ## Issues
 1. Sound - for some reason driver is not loaded and I have no sound in the system, except through Bluetooth
 2. LAN interfaces - currently I am not using any third party kexts. Interfaces work OOB with native Apple driver, but that limints the speed to 1Gb.
-
