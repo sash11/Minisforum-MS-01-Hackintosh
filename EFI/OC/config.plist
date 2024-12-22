@@ -533,14 +533,14 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
-				<key>#layout-id</key>
-				<data>
-				HAAAAA==
-				</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,31,3</string>
 				<key>device_type</key>
 				<string>Audio device</string>
+				<key>layout-id</key>
+				<data>
+				AQAAAA==
+				</data>
 				<key>model</key>
 				<string>Raptor Lake-P/U/H cAVS</string>
 			</dict>
@@ -1165,7 +1165,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>-v -wegnoigpu -alcbeta -cpufbeta</string>
+				<string>-v -wegnoigpu -cpufbeta</string>
 				<key>csr-active-config</key>
 				<data>
 				7w8AAA==
