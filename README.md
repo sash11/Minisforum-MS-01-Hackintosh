@@ -41,4 +41,4 @@
 ## Issues
 1. Sound - for some reason driver is not loaded and I have no sound in the system, except through Bluetooth.
 UPD. Could not get AppleALC working, so I tried VoodooHDA extension and I have sound that way. Not ideal, but it works.
-2. LAN interfaces - currently I am not using any third party kexts. Interfaces work OOB with native Apple driver, but that limints the speed to 1Gb.
+2. LAN interfaces - currently I am not using any third party kexts. Interfaces work OOB with native Apple driver, but that limits the speed to 1Gb.
