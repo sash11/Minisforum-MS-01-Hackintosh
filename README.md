@@ -23,7 +23,7 @@
 | ------------- | --------- |
 | CPU | i9-13900H 6P/8E cores and 20 threads @4.1GHz E-Cores @5.4GHz P-Cores |
 | RAM | 2x48GB 5600MHz DDR5 SO-DIMM Crucial CT48G56C46S5.M16B1 |
-| Audio Chipset | Realtek ALC269. Not working currently |
+| Audio Chipset | Realtek ALC269. Working through VoodooHDA |
 | dGPU | Dell AMD Radeon Pro WX4100 4GB. Works OOB |
 | WiFi & Bluetooth | Fenvi BCM94360NG. Works OOB |
 | OS Disk | 512GB Samsung 970 Pro |
