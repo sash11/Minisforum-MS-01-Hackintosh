@@ -31,7 +31,7 @@
 
 ## BIOS
 - Press Del to enter the BIOS. Use latest available bios for the system 1.26
-- All settings can be enabled pretty much that are needed for Windows/Linux to work efficiently
+- Disable Secure Boot the rest can be left at default or chagned as needed.
 
 ## Installation instructions
 - Adjust your config according to your GPU. I am using a "natively" supported GPU.
