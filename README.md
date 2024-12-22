@@ -30,7 +30,7 @@
 | macOS | Ventura 13.7.2 (22H313)/OpenCore 1.0.3
 
 ## BIOS
-- Press Del to enter the BIOS. Use latest available bios for the system 2.26
+- Press Del to enter the BIOS. Use latest available bios for the system 1.26
 - All settings can be enabled pretty much that are needed for Windows/Linux to work efficiently
 
 ## Installation instructions
