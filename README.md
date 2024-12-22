@@ -1,5 +1,8 @@
 # Minisforum MS-01 with Opencore 1.0.3
 <p align="center">
+  <img src="Docs/MS-01.jpg" align=center">
+ </p>
+<p align="center">
   <img src="Docs/MacPro.png" align=center">
  </p>
  <p align="center">
